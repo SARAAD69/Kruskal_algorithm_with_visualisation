@@ -1,0 +1,58 @@
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe.config
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\bin\Debug\Kr_alg.pdb
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csprojAssemblyReference.cache
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Kruskal.resources
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Weight.resources
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Properties.Resources.resources
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csproj.GenerateResource.cache
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csproj.CoreCompileInputs.cache
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.exe
+C:\Users\artche\source\repos\Kr_alg\Kr_alg\obj\Debug\Kr_alg.pdb
+F:\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe.config
+F:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.exe
+F:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.pdb
+F:\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe
+F:\Kr_alg\Kr_alg\bin\Debug\Kr_alg.pdb
+F:\Kr_alg\Kr_alg\bin\Debug\mscorlib.dll
+F:\Kr_alg\Kr_alg\bin\Debug\ar\mscorlib.resources.dll
+F:\Kr_alg\Kr_alg\bin\Debug\ru\mscorlib.resources.dll
+F:\Kr_alg\Kr_alg\bin\Debug\normidna.nlp
+F:\Kr_alg\Kr_alg\bin\Debug\normnfc.nlp
+F:\Kr_alg\Kr_alg\bin\Debug\normnfd.nlp
+F:\Kr_alg\Kr_alg\bin\Debug\normnfkc.nlp
+F:\Kr_alg\Kr_alg\bin\Debug\normnfkd.nlp
+F:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csprojResolveAssemblyReference.cache
+F:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Kruskal.resources
+F:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Weight.resources
+F:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Properties.Resources.resources
+F:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csproj.GenerateResource.Cache
+E:\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe.config
+E:\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe
+E:\Kr_alg\Kr_alg\bin\Debug\Kr_alg.pdb
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csprojAssemblyReference.cache
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Kruskal.resources
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Weight.resources
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Properties.Resources.resources
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csproj.GenerateResource.cache
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csproj.CoreCompileInputs.cache
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.exe
+E:\Kr_alg\Kr_alg\obj\Debug\Kr_alg.pdb
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe.config
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\obj\Debug\Kr_alg.exe
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\obj\Debug\Kr_alg.pdb
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\Kr_alg.exe
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\Kr_alg.pdb
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\ar\mscorlib.resources.dll
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\normidna.nlp
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\normnfc.nlp
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\normnfd.nlp
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Kruskal.resources
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Weight.resources
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\obj\Debug\Kr_alg.Properties.Resources.resources
+C:\Users\Admin\Desktop\Artemii Chernega\Kr_alg\Kr_alg\obj\Debug\Kr_alg.csproj.GenerateResource.Cache
