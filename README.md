@@ -1,7 +1,7 @@
 # Kruskal_algorithm_with_visualisation
 
 ## Description
-This algorithm was made using C# and as a Visual Forms application to provide possibility of calculation **min** or **max** spanning tree of the given *graph*.
+This algorithm was made using C# and as a Visual Forms application to provide possibility to calculate **min** or **max** spanning tree of the given *graph*.
 
 ## Instruction
 After starting program you will be able to see area for drawing your graph.  
